@@ -14,9 +14,9 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.45
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
 	github.com/wneessen/go-mail v0.7.3
-	golang.org/x/crypto v0.52.0
+	golang.org/x/crypto v0.53.0
 	golang.org/x/exp v0.0.0-20230315142452-642cacee5cc0
-	golang.org/x/text v0.37.0
+	golang.org/x/text v0.38.0
 )
 
 require (
